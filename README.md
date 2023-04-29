@@ -38,12 +38,6 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
  - SecurityEvent (For Windows Event Logs)
  <br />
  <br />
- 
- Click below for the excercise details:
- 
- <details close>
-
-<div>
 
 </summary>
  
@@ -78,10 +72,6 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
   
   <br />
   <br />
-  
-  Click below to see the details of the environment after hardening:
-  
-  <details close>
   
   
   ## Architecture After Hardening
